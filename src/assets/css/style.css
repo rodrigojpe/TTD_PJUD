@@ -4143,7 +4143,9 @@ Feature 21
 *******************/
 .wrap-feature21-box {
   background-size: cover;
-  background-attachment: fixed;
+  width: 100%;
+  height: auto;
+  /* background-attachment: fixed; */
   background-position: left center; }
 
 /*******************
